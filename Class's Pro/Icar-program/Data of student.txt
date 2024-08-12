@@ -1,0 +1,24 @@
+Roll No. = 1
+Name = Ajit
+Admission Year = 2022
+Catagory = OBC
+
+
+Roll No. = 2
+Name = Arun
+Admission Year = 2022
+Catagory = OBC
+
+
+Roll No. = 3
+Name = Arush
+Admission Year = 2022
+Catagory = GEN
+
+
+Roll No. = 4
+Name = Piyush
+Admission Year = 2022
+Catagory = ST
+
+

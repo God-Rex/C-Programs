@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "A1-Q8.C": "cpp",
+        "A1-Q9.C": "cpp",
+        "A1-Q10.C": "cpp",
+        "A1-Q11.C": "cpp",
+        "A2-Q1.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
